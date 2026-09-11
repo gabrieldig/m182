@@ -12,7 +12,14 @@
 
 
 
-
+# Aufträge
+| Auftrag       | Kompetenzzelle | Link                              | Datum      | Abgabeform | KI genutzt (ja/nein) | Testat LP |
+| ------------- | -------------- | --------------------------------- | ---------- | ---------- | -------------------- | --------- |
+| Risikoanalyse | -              | [Risikoanalyse](risikoanalyse.md) | 28.09.2026 | Vorzeigen  | nein                 | 04.09.2026   |
+| Enumeration & Fingerprint | -              | [Enumeration & Fingerprint](enumeration_fingerprint.md) | 28.09.2026 | Vorzeigen  | nein                 | 04.09.2026   |
+| Hardening     | -              | [Hardening](hardening.md)         | 28.09.2026 | Vorzeigen  | nein                 | 04.09.2026   |
+| Honeypot      | -              | [Honeypot](honeypot.md)           | 28.09.2026 | Vorzeigen  | nein                 | 04.09.2026   |
+| KI Validierung | -              | [KI Validierung](ki_validierung.md) | 28.09.2026 | Vorzeigen  | ja                   | 04.09.2026   |
 
 # KI Nutzung
 

@@ -69,4 +69,3 @@ Und dannach kann man ihn wieder mit ``docker run -it hardend-ubuntu bash`` start
 Ich finde das disablen des root Logins eine der wichtigsten Massnahmen ist, da der root Benutzer überall existiert und somit ein beliebtes Ziel für Angriffe ist. Falls ein root Benutzer notwenig ist, sollte man am besten ein neuen Benutzer anlegen und diesem die nötigen Rechte geben.
 
 Ein gehärtetes Image ist ein guter Ausgangspunkt, um ein sicheres System zu erstellen. Im Vergleich zu einem Vanilla Image, kann man sie direkt ohne weitere Konfiguration starten und hat somit eine höhere Sicherheit.
-
