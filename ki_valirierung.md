@@ -8,7 +8,11 @@
 | Quellenzwang | Sinzungsbegrenzung, inaktive Siztzungen beenden, verzeichnsssberechtigungen | einige Tips von vorheriger Antwort|
 
 # Aufgabe 2
--> Docker 25.0.2
+-> NGINX 1.18.0 
 | Behauptung der KI (CVE-Nr. und Kern) | In NVD gefunden? | Betrifft wirklich diese Version? | Bewertung: korrekt / falsch / nicht belegbar |
 | ------------------------------------ | ---------------- | -------------------------------- | -------------------------------------------- |
-| CVE-2024-21626                       | CVE.org gefunden |Betroffene Version: v18.09.02, AI: 16. |                                              |
+| CVE-2021-23017                       | CVE.org gefunden | Yes                              | korrekt                                      |
+| CVE-2019-20372                       | CVE.org gefunden | Nein, sondern < 17.7.0           | Jedoch richtig beschrieben                   |
+| CVE-2022-41741                       | CVE.org gefunden | Yes                              | nicht korrekt beschrieben                    |
+| CVE-2022-41742                       | CVE.org gefunden | Yes                              | nicht korrekt beschrieben                    |
+| CVE-2018-16843                       | CVE.org gefunden | Nein, sondern < 1.15.6           | korrekt                                      |
